@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+@include media-breakpoint-up(md) {
+  #ratesTable {
+    width: 75%;
+  }
+}
