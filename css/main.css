@@ -1,4 +1,13 @@
+html {
+  font-size: 10px;
+}
+
 * {
   box-sizing: border-box;
+}
+
+input {
+  width: 30% !important;
+  height: 3rem;
 }
 /*# sourceMappingURL=main.css.map */
